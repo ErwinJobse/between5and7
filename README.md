@@ -28,10 +28,10 @@ import isbetween5and7 from 'isbetween5and7';
 
 
 
-between5and7(6); // true
+isbetween5and7(6); // true
 
 
-between5and7(1); // false
+isbetween5and7(1); // false
 
 ```
 
