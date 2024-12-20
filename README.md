@@ -12,7 +12,7 @@ A simple package to check if a number is between 5 and 7
 
 ```bash
 
-npm install between5and7
+npm install isbetween5and7
 
 ```
 
@@ -24,7 +24,7 @@ npm install between5and7
 
 ```typescript
 
-import between5and7 from 'between5and7';
+import isbetween5and7 from 'isbetween5and7';
 
 
 
@@ -40,7 +40,7 @@ between5and7(1); // false
 
 
 
-### `between5and7(num: number): boolean`
+### `isbetween5and7(num: number): boolean`
 
 
 
