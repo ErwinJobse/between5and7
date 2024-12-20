@@ -2,7 +2,7 @@
 
 
 
-A simple package to check if a number is bewteen 5 and 7
+A simple package to check if a number is between 5 and 7
 
 
 
@@ -12,7 +12,7 @@ A simple package to check if a number is bewteen 5 and 7
 
 ```bash
 
-npm install iszero-or-less
+npm install between5and7
 
 ```
 
